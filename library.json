@@ -1,0 +1,11 @@
+{
+  "name": "LOLshield",
+  "version": "0.9",  
+  "keywords": "lolshield, led, matrix, charlieplex",
+  "description": "Arduino library for the LOLshield LED matrix",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/sickcuchulainn/LoLshield.git"
+  }
+}
